@@ -17,7 +17,7 @@ output:
 # - docs/      → Final HTML report lives here for GitHub Pages
 # - R/         → Reserved for utility functions (modularization)
 # - launch.command → Script to knit Rmd and move HTML to docs/
-# - AppleStockAnalysis.Rmd → Main analysis and forecasting notebook
+# - AppleStockAnalysis.Rmd → Main statistical analysis notebook
 
 ---
 

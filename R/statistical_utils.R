@@ -1,4 +1,4 @@
-# forecasting_utils.R
+# statistical_utils.R
 
 library(dplyr)
 

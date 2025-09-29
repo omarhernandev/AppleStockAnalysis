@@ -7,11 +7,11 @@
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![status](https://img.shields.io/badge/status-production--ready-brightgreen)
 
-### Time Series Forecasting in R
+### Statistical Analysis of Apple Stock Data in R
 
 ## Project Overview
 
-This project analyzes and forecasts trends in Apple's historical stock price data using R. It applies ARIMA models, seasonal decomposition, and time series visualizations to uncover market patterns and project future performance.
+This project analyzes Apple's historical stock price data using R to demonstrate statistical concepts and data visualization techniques. It focuses on exploratory data analysis, the Central Limit Theorem demonstration, and comprehensive visualizations of Apple's stock performance patterns.
 
 ## Dataset Source
 
@@ -29,30 +29,30 @@ The dataset includes historical trading data for AAPL from 1980 to 2025, includi
 
 - R / RMarkdown
 - tidyverse
-- forecast
 - lubridate
 - ggplot2
+- plotly
 - readr
 
 ## Project Goal
 
-To develop a time series forecasting solution using Apple stock price data with a focus on clear visualizations, reproducible modeling, and business-applicable insights.
+To demonstrate statistical analysis techniques using Apple stock price data with a focus on clear visualizations, reproducible analysis, and educational insights about the Central Limit Theorem and data exploration.
 
 ## Statistical Note: Central Limit Theorem
 
-This project includes a demonstration of the Central Limit Theorem (CLT), a fundamental concept in probability and statistics. By simulating repeated samples from Apple’s daily returns, the notebook shows how sample means form a normal distribution — reinforcing the validity of inferential forecasting in time series analysis.
+This project includes a demonstration of the Central Limit Theorem (CLT), a fundamental concept in probability and statistics. By simulating repeated samples from Apple's daily returns, the notebook shows how sample means form a normal distribution — demonstrating key statistical principles through practical data analysis.
 
 ## Features
 
-- Time series decomposition and exploratory data analysis
-- ARIMA modeling for short-term price forecasting
-- Visualizations of trends, seasonality, and predictions
-- Parameter tuning and accuracy evaluation
+- Comprehensive exploratory data analysis of Apple stock data
+- Central Limit Theorem demonstration with sampling techniques
+- Interactive visualizations of stock trends and distributions
+- Statistical analysis of daily returns and price patterns
 - Renderable RMarkdown report in HTML/PDF
 
-## About ARIMA Forecasting
+## About Statistical Analysis
 
-ARIMA (AutoRegressive Integrated Moving Average) is a powerful statistical model used for time series forecasting. It predicts future values based on past observations, trends, and error patterns. This project uses ARIMA to forecast Apple’s future stock price by analyzing historical performance patterns.
+This project demonstrates fundamental statistical concepts using real-world financial data. By analyzing Apple's stock performance, we explore data distributions, sampling theory, and the Central Limit Theorem through practical examples that illustrate how statistical principles apply to financial markets.
 
 ## Project Structure
 
@@ -68,7 +68,7 @@ AppleStockAnalysis/
 │   └── image/
 │       └── applestock.png
 ├── R/
-│   ├── forecasting_utils.R
+│   ├── statistical_utils.R
 │   └── plotting_utils.R
 ```
 
@@ -85,10 +85,10 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 
 ## How This Would Scale
 
-- Modularize time series functions in the `/R` directory
+- Modularize statistical analysis functions in the `/R` directory
 - Add a Shiny dashboard for user interactivity
 - Automate data ingestion via Alpha Vantage or Yahoo Finance API
-- Deploy as a hosted forecasting service with auto-refresh
+- Deploy as a hosted analysis service with auto-refresh
 - Add unit tests and continuous integration
 
 ## System Diagram
@@ -104,10 +104,10 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 
 - Integrate live stock data via an API (e.g., Alpha Vantage or Yahoo Finance)
 - Automate periodic data refresh with scheduled tasks
-- Expand forecasting to multiple tickers for comparative analysis
+- Expand analysis to multiple tickers for comparative analysis
 - Add a Shiny dashboard for interactive exploration
-- Export forecast results and visualizations to CSV and PNG
-- Package the model as a reusable R module in the `/R/` directory
+- Export analysis results and visualizations to CSV and PNG
+- Package the analysis functions as a reusable R module in the `/R/` directory
 - Add unit tests for helper functions (e.g., data preprocessing, plotting)
 
 ## Contact
