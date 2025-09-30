@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Apple Logo" width="100"/>
 </p>
 
-# AppleStockAnalysis
+# Apple Stock Analysis
 
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![status](https://img.shields.io/badge/status-demo-brightgreen)
