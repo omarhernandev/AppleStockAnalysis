@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Apple Logo" width="100"/>
 </p>
 
-# Apple Stock Analysis
+# AppleStockAnalysis
 
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![status](https://img.shields.io/badge/status-demo-brightgreen)
@@ -64,12 +64,12 @@ AppleStockAnalysis/
 ├── data/
 │   └── apple_stock.csv
 ├── docs/
-│   ├── index.html
 │   └── image/
-│       └── applestock.png
-├── R/
-│   ├── statistical_utils.R
-│   └── plotting_utils.R
+│       ├── applestock_updated.md
+│       └── mermaid_r.png
+└── R/
+    ├── plotting_utils.R
+    └── statistical_utils.R
 ```
 
 ## How to Run
