@@ -94,10 +94,10 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 ## System Diagram
 
 > **Mobile Friendly:** Embedded as image instead of Mermaid for full compatibility
-> 📂 `./docs/image/applestock.png`
+> 📂 `./docs/image/mermaid_r.png`
 
 <p align="center">
-  <img src="docs/image/applestock.png" alt="System Diagram" width="400"/>
+  <img src="docs/image/mermaid_r.png" alt="System Diagram" width="400"/>
 </p>
 
 ## Future Enhancements
