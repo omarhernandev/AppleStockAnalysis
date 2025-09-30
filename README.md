@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="Apple Logo" width="100"/>
 </p>
 
 # AppleStockAnalysis
