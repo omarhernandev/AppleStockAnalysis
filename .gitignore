@@ -18,6 +18,8 @@
 # Reports and outputs
 *.pdf
 *.html
+# Exception: Allow GitHub Pages HTML in docs/
+!docs/index.html
 
 # Cache and temp files
 .Rcheck/
