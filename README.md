@@ -5,7 +5,7 @@
 # AppleStockAnalysis
 
 ![version](https://img.shields.io/badge/version-v1.0.0-blue)
-![status](https://img.shields.io/badge/status-production--ready-brightgreen)
+![status](https://img.shields.io/badge/status-demo-brightgreen)
 
 ### Statistical Analysis of Apple Stock Data in R
 
