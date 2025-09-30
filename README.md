@@ -63,13 +63,10 @@ AppleStockAnalysis/
 ├── .gitignore
 ├── data/
 │   └── apple_stock.csv
-├── docs/
-│   └── image/
-│       ├── system_diagram.md
-│       └── system_diagram.png
-└── R/
-    ├── plotting_utils.R
-    └── statistical_utils.R
+└── docs/
+    └── image/
+        ├── system_diagram.md
+        └── system_diagram.png
 ```
 
 ## How to Run
@@ -85,11 +82,11 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 
 ## How This Would Scale
 
-- Modularize statistical analysis functions in the `/R` directory
 - Add a Shiny dashboard for user interactivity
 - Automate data ingestion via Alpha Vantage or Yahoo Finance API
 - Deploy as a hosted analysis service with auto-refresh
 - Add unit tests and continuous integration
+- Modularize statistical analysis functions for reusability
 
 ## System Diagram
 
