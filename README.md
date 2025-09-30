@@ -65,8 +65,8 @@ AppleStockAnalysis/
 │   └── apple_stock.csv
 ├── docs/
 │   └── image/
-│       ├── applestock_updated.md
-│       └── mermaid_r.png
+│       ├── system_diagram.md
+│       └── system_diagram.png
 └── R/
     ├── plotting_utils.R
     └── statistical_utils.R
@@ -94,10 +94,10 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 ## System Diagram
 
 > **Mobile Friendly:** Embedded as image instead of Mermaid for full compatibility
-> 📂 `./docs/image/mermaid_r.png`
+> 📂 `./docs/image/system_diagram.png`
 
 <p align="center">
-  <img src="docs/image/mermaid_r.png" alt="System Diagram" width="400"/>
+  <img src="docs/image/system_diagram.png" alt="System Diagram" width="400"/>
 </p>
 
 ## Future Enhancements
