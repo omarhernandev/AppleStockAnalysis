@@ -109,18 +109,25 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:ohfreelancing@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a href="https://github.com/oohmxi" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-  <a href="https://linkedin.com/in/omarhlink" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:ohfreelancing@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/oohmxi">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/omarhlink">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-<p align="center"><em>In the spirit of Apple—simple, scalable, and slightly ahead of its time.<br>oohmxi</em></p>
+<p align="center"><em>Academic Project</em></p> 
+<p align="center"><strong> © 2025 oohmxi </strong></p>
