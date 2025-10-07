@@ -20,6 +20,7 @@
 *.html
 # Exception: Allow GitHub Pages HTML in docs/
 !docs/index.html
+!docs/index2.html
 
 # Cache and temp files
 .Rcheck/
