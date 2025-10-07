@@ -112,7 +112,7 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 <table align="center">
   <tr>
     <td>
-      <a href="mailto:ohern@bu.edu">
+      <a href="mailto:ohfreelancing@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
       </a>
     </td>
@@ -131,4 +131,4 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 
 
 
-<p align="center"><em>In the spirit of Apple—simple, scalable, and slightly ahead of its time.<br>oohmxi Technologies, Inc.</em></p>
+<p align="center"><em>In the spirit of Apple—simple, scalable, and slightly ahead of its time.<br>oohmxi</em></p>
