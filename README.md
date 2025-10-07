@@ -110,13 +110,13 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 ## Contact
 
 <p align="center">
-  <a href="mailto:ohfreelancing@gmail.com">
+  <a href="mailto:ohfreelancing@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://github.com/oohmxi">
+  <a href="https://github.com/oohmxi" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
-  <a href="https://linkedin.com/in/omarhlink">
+  <a href="https://linkedin.com/in/omarhlink" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
