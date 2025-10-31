@@ -23,7 +23,7 @@ The dataset includes historical trading data for AAPL from 1980 to 2025, includi
 ## 🔗 Live Report
 
 📊 View the full interactive HTML report hosted on GitHub Pages:
-👉 [Apple Stock Analysis Report](https://oohmxi.github.io/AppleStockAnalysis/)
+👉 [Apple Stock Analysis Report](https://omarhernandev.github.io/AppleStockAnalysis/)
 
 ## Technologies Used
 
@@ -117,7 +117,7 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/oohmxi">
+      <a href="https://github.com/omarhernandev">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
       </a>
     </td>
@@ -130,4 +130,4 @@ rmarkdown::render("AppleStockAnalysis.Rmd")
 </table>
 
 <p align="center"><em>Academic Project</em></p> 
-<p align="center"><strong> © 2025 oohmxi </strong></p>
+<p align="center"><strong> © 2025 omarhernandev </strong></p>
